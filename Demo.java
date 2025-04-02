@@ -6,4 +6,10 @@ class Demo{
   public void noti(){
     System.out.println("Hello");
   }
+
+
+  public void auth(){
+    System.out.println("auth");
+  }
 }
+
